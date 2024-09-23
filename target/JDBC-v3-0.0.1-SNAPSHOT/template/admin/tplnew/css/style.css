@@ -1,0 +1,14 @@
+*{
+    font-size: 14px;
+}
+.responsive-font {
+    font-size: 40px;
+}
+
+@media(max-width: 768px) {
+
+    .responsive-font {
+        font-size: 70px;
+    }
+
+}
